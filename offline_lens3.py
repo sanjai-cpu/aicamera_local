@@ -80,4 +80,3 @@ if __name__ == "__main__":
     pip install opencv-python Pillow accelerate
     """
     main()
-dscssvvs
